@@ -5,25 +5,25 @@ Trabajo para la creación de una base para la programación del módulo Desarrol
 
 Según la programación didáctica de referencia y la normativa vigente, los resultados de aprendizaje (RA) del módulo son:
 
-* Seleccionar arquitecturas y tecnologías de programación web en entorno servidor, analizando sus capacidades y características.
+ * Seleccionar arquitecturas y tecnologías de programación web en entorno servidor, analizando sus capacidades y características.
 
-* Escribir sentencias ejecutables por un servidor web, integrando código en lenguajes de marcas.
+ * Escribir sentencias ejecutables por un servidor web, integrando código en lenguajes de marcas.
 
-* Escribir bloques de sentencias embebidos en lenguajes de marcas, utilizando estructuras de programación.
+ * Escribir bloques de sentencias embebidos en lenguajes de marcas, utilizando estructuras de programación.
 
-* Desarrollar aplicaciones web embebidas en lenguajes de marcas, incorporando funcionalidades según especificaciones.
+ * Desarrollar aplicaciones web embebidas en lenguajes de marcas, incorporando funcionalidades según especificaciones.
 
-* Desarrollar aplicaciones web separando el código de presentación de la lógica de negocio.
+ * Desarrollar aplicaciones web separando el código de presentación de la lógica de negocio.
 
-* Desarrollar aplicaciones de acceso a almacenes de datos, aplicando medidas de seguridad e integridad.
+ * Desarrollar aplicaciones de acceso a almacenes de datos, aplicando medidas de seguridad e integridad.
 
-* Desarrollar servicios web, analizando su funcionamiento e implantando la estructura de sus componentes.
+ * Desarrollar servicios web, analizando su funcionamiento e implantando la estructura de sus componentes.
 
-* Generar páginas web dinámicas utilizando tecnologías del servidor web que añadan código al lenguaje de marcas.
+ * Generar páginas web dinámicas utilizando tecnologías del servidor web que añadan código al lenguaje de marcas.
 
-* Desarrollar aplicaciones web híbridas utilizando librerías de código y repositorios heterogéneos de información.
+ * Desarrollar aplicaciones web híbridas utilizando librerías de código y repositorios heterogéneos de información.
 
-* Competencias y capacidades asociadas
+ * Competencias y capacidades asociadas
 
 ## Secuenciación y Unidades de Trabajo con Jakarta EE y Django REST Framework
 
